@@ -88,7 +88,7 @@ class TopReatedCourses extends StatelessWidget {
           ),
           Positioned(
             bottom: 80,
-            width: MediaQuery.of(context).size.width * 0.25,
+            width: MediaQuery.of(context).size.width * 0.28,
             height: 30,
             child: Container(
               alignment: Alignment.center,
@@ -99,7 +99,7 @@ class TopReatedCourses extends StatelessWidget {
               child: Text(
                 title,
                 style: const TextStyle(
-                    fontSize: 16,
+                    fontSize: 14,
                     color: Colors.white,
                     fontWeight: FontWeight.w300),
               ),

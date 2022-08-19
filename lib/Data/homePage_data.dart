@@ -29,7 +29,7 @@ List<SalonCoursesModel> salonCourses = [
   SalonCoursesModel(
       title: "HAIR COMBO",
       start: 4,
-      experience: "4-8",
+      experience: "10-12",
       image: 'assets/images/Rectangle 2099.jpg'),
   SalonCoursesModel(
       title: "MAKEUP LOOK",
@@ -39,6 +39,6 @@ List<SalonCoursesModel> salonCourses = [
   SalonCoursesModel(
       title: "NAIL ARTS",
       start: 4,
-      experience: "4-8",
+      experience: "2-4",
       image: 'assets/images/Rectangle 2101.jpg'),
 ];
